@@ -4,7 +4,7 @@ The main problem with the original ice block is that it melts. I mean, it's not 
 
 How about packed ice? It's not transparent. A resource pack? I’d lose opaque ice blocks.
  
-So I came with this idea: instead of disabling the random ticking of ice blocks (and losing some traps mechanics, see this introduction), I've created a new block called "Eternal Ice". It copies the original ice block with a few tweaks:
+So I came with this idea: instead of disabling the random ticking of ice blocks (and losing some traps mechanics, <a href="https://www.youtube.com/watch?v=27pbMJh0AMU">like in this video</a>), I've created a new block called "Eternal Ice". It copies the original ice block with a few tweaks:
  
 - It doesn’t melt, never;
 - It doesn’t release water on harvest (it still needs silk touch, though);
