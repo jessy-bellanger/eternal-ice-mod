@@ -1,6 +1,6 @@
 This small mod adds some new ice blocks for players who want to have ice blocks that never melt.
  
-The main problem with the original ice block is that it melts. I mean, it's not a problem by itself, but you can't build things with it (unless you are on a mountain or you don’t lit anything)...
+The main problem with the original ice block is that it melts. I mean, it's not a problem by itself, but you can't build things with it (unless you are on a mountain or you don’t light anything)...
 
 How about packed ice? It's not transparent. A resource pack? I’d lose opaque ice blocks.
  
