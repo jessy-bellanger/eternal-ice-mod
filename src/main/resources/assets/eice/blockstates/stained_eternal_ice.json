@@ -1,0 +1,30 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "eice:blocks/stained_eternal_ice",
+      "particle": "eice:blocks/stained_eternal_ice"
+    },
+    "model": "eice:stained_eternal_ice"
+  },
+  "variants": {
+    "color": {
+      "white": {},
+      "orange": {},
+      "magenta": {},
+      "light_blue": {},
+      "yellow": {},
+      "lime": {},
+      "pink": {},
+      "gray": {},
+      "silver": {},
+      "cyan": {},
+      "purple": {},
+      "blue": {},
+      "brown": {},
+      "green": {},
+      "red": {},
+      "black": {}
+    }
+  }
+}

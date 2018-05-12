@@ -1,0 +1,10 @@
+{
+  "type": "eice:shaped_freezing",
+  "item": {
+    "item": "minecraft:ice"
+  },
+  "result": {
+    "item": "eice:eternal_ice",
+    "count": 8
+  }
+}

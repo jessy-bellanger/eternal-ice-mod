@@ -1,0 +1,20 @@
+item.frozen_crystal.name=Frozen Crystal
+item.frozen_pickaxe.name=Frozen Pickaxe
+
+tile.eternal_ice.name=Eternal Ice
+tile.stained_eternal_ice.white.name=White Stained Eternal Ice
+tile.stained_eternal_ice.orange.name=Orange Stained Eternal Ice
+tile.stained_eternal_ice.magenta.name=Magenta Stained Eternal Ice
+tile.stained_eternal_ice.light_blue.name=Light Blue Stained Eternal Ice
+tile.stained_eternal_ice.yellow.name=Yellow Stained Eternal Ice
+tile.stained_eternal_ice.lime.name=Lime Stained Eternal Ice
+tile.stained_eternal_ice.pink.name=Pink Stained Eternal Ice
+tile.stained_eternal_ice.gray.name=Gray Stained Eternal Ice
+tile.stained_eternal_ice.silver.name=Silver Stained Eternal Ice
+tile.stained_eternal_ice.cyan.name=Cyan Stained Eternal Ice
+tile.stained_eternal_ice.purple.name=Purple Stained Eternal Ice
+tile.stained_eternal_ice.blue.name=Blue Stained Eternal Ice
+tile.stained_eternal_ice.brown.name=Brown Stained Eternal Ice
+tile.stained_eternal_ice.green.name=Green Stained Eternal Ice
+tile.stained_eternal_ice.red.name=Red Stained Eternal Ice
+tile.stained_eternal_ice.black.name=Black Stained Eternal Ice

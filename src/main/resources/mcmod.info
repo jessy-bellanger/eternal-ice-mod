@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "eice",
+      "name": "Eternal Ice",
+      "description": "Adds color-able ice that never melts!",
+      "version": "0.5",
+      "mcversion": "1.12",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Zeshii"],
+      "credits": "Naigel76 for having the idea",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

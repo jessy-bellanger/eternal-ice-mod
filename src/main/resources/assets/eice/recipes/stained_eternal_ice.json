@@ -1,0 +1,19 @@
+{
+  "type": "eice:shaped_recoloring",
+  "ingredients": [
+    [
+      {
+        "item": "eice:eternal_ice"
+      },
+      {
+        "item": "eice:stained_eternal_ice",
+        "data": 32767
+      }
+    ]
+  ],
+  "result": {
+    "item": "eice:stained_eternal_ice",
+    "count": 8,
+    "data": 32767
+  }
+}

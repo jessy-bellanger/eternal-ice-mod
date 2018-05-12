@@ -1,0 +1,6 @@
+{
+  "recipes": {
+    "shaped_freezing": "fr.zeshi.eice.util.crafting.ShapedFreezingRecipe$Factory",
+    "shaped_recoloring": "fr.zeshi.eice.util.crafting.ShapedRecoloringRecipe$Factory"
+  }
+}
